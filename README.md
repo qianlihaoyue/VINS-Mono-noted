@@ -1,3 +1,8 @@
+## Update
+
+- 1.0 - 3.27 - ubuntu20+opencv4 build success
+
+
 这是VINS-Mono开源代码的注释版本，方便大家学习这款非常优秀的VIO框架，原git库地址https://github.com/HKUST-Aerial-Robotics/VINS-Mono
 
 关于代码的注释会不定期更新，欢迎关注

@@ -23,7 +23,7 @@ find_package(Ceres REQUIRED)
 
 include_directories(${catkin_INCLUDE_DIRS} ${CERES_INCLUDE_DIRS})
 
-set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake)
+set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/../cmake)
 find_package(Eigen3)
 include_directories(
   ${catkin_INCLUDE_DIRS}
